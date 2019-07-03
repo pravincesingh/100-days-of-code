@@ -8,3 +8,12 @@
 **Thoughts:** I enjoyed working with bootstrap .
 
 **Link to work:** [DogDer website](https://pravincesingh.github.io/DogDer/)
+
+### Day 1: July 3, 2019 
+
+
+**Today's Progress**: Learned basic of bootstrap 
+
+**Thoughts:** I'm struggling with css
+
+**Link to work:** [DogDer website](https://pravincesingh.github.io/DogDer/)
