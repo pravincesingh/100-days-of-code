@@ -17,3 +17,12 @@
 **Thoughts:** I'm struggling with css
 
 **Link to work:** [DogDer website](https://pravincesingh.github.io/DogDer/)
+
+
+### Day 2: July 4, 2019 
+
+**Today's Progress**: Learned basic of bootstrap 
+
+**Thoughts:** I'm struggling with css
+
+**Link to work:** [DogDer website](https://pravincesingh.github.io/DogDer/)
