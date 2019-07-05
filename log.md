@@ -26,3 +26,9 @@
 **Thoughts:** I'm struggling with css
 
 **Link to work:** [DogDer website](https://pravincesingh.github.io/DogDer/)
+
+### Day 3: July 5, 2019 
+
+**Today's Progress**: Learned basic of JavaScript
+
+**Thoughts:** It's easy
