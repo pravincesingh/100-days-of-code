@@ -32,3 +32,11 @@
 **Today's Progress**: Learned basic of JavaScript
 
 **Thoughts:** It's easy
+
+### Day 4: July 6, 2019 
+
+**Today's Progress**: Learned basic of bootstrap 
+
+**Thoughts:** I'm struggling with css
+
+**Link to work:** [DogDer website](https://pravincesingh.github.io/DogDer/)
