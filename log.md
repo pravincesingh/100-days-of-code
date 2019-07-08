@@ -40,3 +40,11 @@
 **Thoughts:** I'm struggling with css
 
 **Link to work:** [DogDer website](https://pravincesingh.github.io/DogDer/)
+
+### Day 5: July 8, 2019 
+
+**Today's Progress**: Learned bootstrap 
+
+**Thoughts:** I'm struggling with css
+
+**Link to work:** [DogDer website](https://pravincesingh.github.io/DogDer/)
