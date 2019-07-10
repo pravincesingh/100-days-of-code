@@ -41,7 +41,7 @@
 
 **Link to work:** [DogDer website](https://pravincesingh.github.io/DogDer/)
 
-### Day 5: July 8, 2019 
+### Day 6: July 8, 2019 
 
 **Today's Progress**: Learned bootstrap 
 
@@ -49,10 +49,15 @@
 
 **Link to work:** [DogDer website](https://pravincesingh.github.io/DogDer/)
 
-### Day 6: July 9, 2019 
+### Day 7: July 9, 2019 
 
 **Today's Progress**: Learned bootstrap  and Refactoring techniques
 
 **Thoughts:** I'm struggling with css
 
 **Link to work:** [DogDer website](https://pravincesingh.github.io/DogDer/)
+
+### Day 8: July 10, 2019 
+
+**Today's Progress**: started DOM
+
