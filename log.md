@@ -61,3 +61,7 @@
 
 **Today's Progress**: started DOM
 
+### Day 9: July 11, 2019 
+
+**Today's Progress**: DOM
+
