@@ -65,3 +65,7 @@
 
 **Today's Progress**: DOM
 
+### Day 10: July 12, 2019 
+
+**Today's Progress**: HTML and CSS
+
