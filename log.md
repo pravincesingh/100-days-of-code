@@ -69,3 +69,7 @@
 
 **Today's Progress**: HTML and CSS
 
+### Day 11: July 14, 2019 
+
+**Today's Progress**: learned some concept of dom and javascript 
+
