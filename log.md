@@ -73,3 +73,6 @@
 
 **Today's Progress**: learned some concept of dom and javascript 
 
+### Day 12: July 16, 2019 
+
+**Today's Progress**: python-panda
