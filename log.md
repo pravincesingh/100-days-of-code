@@ -76,3 +76,8 @@
 ### Day 12: July 16, 2019 
 
 **Today's Progress**: python-panda
+
+### Day 13: July 17, 2019 
+
+**Today's Progress**: python-matplotlib
+
